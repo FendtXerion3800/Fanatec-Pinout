@@ -5,4 +5,4 @@ switches or analog components such the wheelbase can interpret the signals in th
 the different connections should be collected here in one spot. It should be made accessible for all.
 
 See the Wiki for Informations
-[Fanatec Electrical Dokumentation](https://github.com/FendtXerion3800/Fanatec-Connectivity/wiki/Electrical-Connectivity)
+[Fanatec Electrical Dokumentation](https://github.com/FendtXerion3800/Fanatec-Connectivity/wiki)
